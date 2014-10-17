@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hoi:home|Door43 (hoi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hoi|d43-hoi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hoi/archive/master.zip|d43-hoi.zip]]
+
+**Recent Changes**
+{{changes>ns = hoi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hoi|Ethnologue data]]
+
